@@ -106,3 +106,10 @@ input {
 #deleteBtn {
     background: #1f6feb;
 }
+
+.btn { 
+    font-weight: 700; border-radius: 14px;
+}
+.small { 
+    font-weight: 700; 
+}

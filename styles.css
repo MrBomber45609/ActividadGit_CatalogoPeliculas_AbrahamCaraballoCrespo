@@ -97,3 +97,12 @@ input {
     color: white;
     background: #555;
 }
+
+#addBtn {
+    background: #c0392b;
+}
+
+
+#deleteBtn {
+    background: #1f6feb;
+}
